@@ -6,7 +6,7 @@ This repository contains:
 - **EDA and data preprocessing** are performed in notebook file - _jobathon_data_preprocess.ipynb_
 - Different **models** are explored and explained in the file - _jobathon_all_models.ipynb_
 - A file explaining different methods tested.
-- 
+ 
 Pre-processed data will be stored as csv file, which will be the input data for models file.
 
 **_Change the path of the input and output files acordingly_**
